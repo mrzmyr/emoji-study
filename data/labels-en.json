@@ -1,0 +1,15 @@
+[
+  ["IN_LOVE", "In Love", "1 = weak; 5 = strong"],
+  ["WHATSAPP_PRIVATE", "WhatsApp Usage (Private)", "1 = weak; 101 = strong"],
+  ["WHATSAPP_JOB", "WhatsApp Usage (Professional)", "1 = weak; 101 = strong"],
+  ["SEX", "Gender", "1 = male; 2 = female; 4 = other"],
+  ["EDUCATION", "Education", "1 = (Noch) keinen Abschluss; 2 = Hauptschulabschluss/Volksschule; 3 = Mittlere Reife, Realschulabschluss (oder gleichwertiger Abschluss); 4 = Abitur, Fachabitur, Hochschulreife; 5 = Fachhochschul-/Hochschulabschluss"],
+  ["IMPRESSION_MOTIVATION", "Impression Motivation", "1 = disagree; 3 = neither nor; 5 = agree"],
+  ["LIFE_SATISFACTION", "Happiness and Satisfaction Scale (ISSP)", "1 = happy; 4 = neither happy nor unhappy; 7 = unhappy"],
+  ["EXTRAVISION", "Extraversion", "1 = weak; 5 = strong"],
+  ["AGREEABLENESS", "Agreeableness", "1 = weak; 5 = strong"],
+  ["NEUROTICISM", "Neuroticism", "1 = weak; 5 = strong"],
+  ["CONSCIENTIOUSNESS", "Conscientiousness", "1 = weak; 5 = strong"],
+  ["OPENNESS_TO_EXPERIENCE", "Openness to experience", "1 = weak; 5 = strong"],
+  ["AGE", "Age", ""]
+]

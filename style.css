@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, "Lucida Sans", Geneva, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  margin: 20px;
+  background: #EEE;
+}
+
+input, select, button {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.container {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 20px 40px;
+  background: #FFF;
+}
+
+#chart-container {
+}
+
+svg text {
+  color: #FFF;
+}
+
+a {
+  color: #000;
+}
+
+p {
+  font-size: 18px;
+}
+
+select {
+  max-width: 100%;
+}
+
+.settings {
+  background: #EEE;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.settings h4 {
+  font-size: 18px;
+  margin: 0 0 10px;
+}
+
+.help {
+  color: #999;
+}
+
+rect {
+  fill: transparent;
+  shape-rendering: crispEdges;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: rgba(0, 0, 0, 0.1);
+  shape-rendering: crispEdges;
+}
+
+.axisLine {
+  fill: none;
+  shape-rendering: crispEdges;
+  stroke: rgba(0, 0, 0, 0.5);
+  stroke-width: 2px;
+}
+
+.dot {
+  fill-opacity: .5;
+}
+
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}

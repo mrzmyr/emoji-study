@@ -1,0 +1,15 @@
+[
+  ["IN_LOVE", "Verliebtheit", "1 = wenig; 5 = viel"],
+  ["WHATSAPP_PRIVATE", "WhatsApp Nutzung (Privat)", "1 = wenig; 101 = viel"],
+  ["WHATSAPP_JOB", "WhatsApp Nutzung (Job)", "1 = wenig; 101 = viel"],
+  ["SEX", "Geschlecht", "1 = männlich; 2 = weiblich; 4 = sonstiges"],
+  ["EDUCATION", "Bildung", "1 = (Noch) keinen Abschluss; 2 = Hauptschulabschluss/Volksschule; 3 = Mittlere Reife, Realschulabschluss (oder gleichwertiger Abschluss); 4 = Abitur, Fachabitur, Hochschulreife; 5 = Fachhochschul-/Hochschulabschluss"],
+  ["IMPRESSION_MOTIVATION", "Impression Motivation", "1 = stimme gar nicht zu; 3 = weder noch; 5 = stimme vollkommen zu"],
+  ["LIFE_SATISFACTION", "Happiness and Satisfaction Scale (ISSP)", "1 = Komplett zufrieden; 2 = Sehr zufrieden; 3 = Bisschen zufrieden; 4 = Weder zufrieden noch unzufrieden; 5 = Bisschen unzufrieden; 6 = Sehr unzufrieden; 7 = Komplett unzufrieden"],
+  ["EXTRAVISION", "Extraversion", "1 = wenig; 5 = viel"],
+  ["AGREEABLENESS", "Verträglichkeit", "1 = wenig; 5 = viel"],
+  ["NEUROTICISM", "Neurotizismus", "1 = wenig; 5 = viel"],
+  ["CONSCIENTIOUSNESS", "Gewissenhaftigkeit", "1 = wenig; 5 = viel"],
+  ["OPENNESS_TO_EXPERIENCE", "Offenheit für Erfahrungen", "1 = wenig; 5 = viel"],
+  ["AGE", "Alter", ""]
+]
